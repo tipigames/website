@@ -1,6 +1,6 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-armoniayarte.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1753699677|-xdfI7OHKJyF
+armoniayarte.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1753790944|Sn52_MSVu0Nl
 armoniayarte.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-armoniayarte.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=virginia-pub_g
+armoniayarte.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=sea1_g
 
